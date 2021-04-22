@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Loewencrimelife/Loewencrimelife** is a edit fraklager repository because its `README.md` (this file) appears on your GitHub profile.
+**Loewencrimelife/Loewencrimelife** is a create new fraktion repository because its `README.md` (this file) appears on your GitHub profile.
 
-edit money
+create new fraktion 
 
 
